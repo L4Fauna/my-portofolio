@@ -60,7 +60,7 @@ const Hero = () => {
             <FaGithub />
           </motion.a>
           <motion.a
-            href="/"
+            href="https://www.linkedin.com/in/haikal-aufan/"
             className="text-2xl text-gray-600 hover:text-primary dark:text-gray-300 transition-colors"
             whileHover={{ scale: 1.2 }}
             whileTap={{ scale: 0.9 }}
