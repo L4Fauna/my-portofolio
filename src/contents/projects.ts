@@ -6,7 +6,7 @@ export const projects = [
     technologies: ["Next.js", "Tailwind CSS", "Framer Motion"],
     githubLink: "https://github.com/L4Fauna/my-portofolio",
     demoLink: "https://lafauna-porto.vercel.app/",
-    image: "/projects/myporto-thumbnail.jpg",
+    image: "/projects/myporto-thumbnail.png",
   },
   {
     title: "ReactJs Contact App",
